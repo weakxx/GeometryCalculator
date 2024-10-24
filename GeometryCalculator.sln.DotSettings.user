@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=233e1a9e_002D8882_002D4c85_002D963a_002D257b138104e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TriangleNegativeSidesTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7A6B0673-D166-4AFF-A02A-358B6FBD2715::net8.0::Test.GeometryLibraryTests.TriangleNegativeSidesTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7A6B0673-D166-4AFF-A02A-358B6FBD2715::net8.0::Test.GeometryLibraryTests.RightTriangleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7A6B0673-D166-4AFF-A02A-358B6FBD2715::net8.0::Test.GeometryLibraryTests.CircleAreaTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
